@@ -7,3 +7,4 @@ this is just a simple single page website for HNG 8 Frontend stage 2
 this is just a simple code that prints out my name
 
 # link to hosted page
+https://team-request.netlify.app/
