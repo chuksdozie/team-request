@@ -39,6 +39,17 @@ a.logo {
   margin: 0 5px;
 }
 
+.logo1 {
+  list-style-type: none;
+  margin: 0 5px;
+  height: 10px;
+}
+
+.logo2 {
+  list-style-type: none;
+  margin: 0 5px;
+}
+
 img {
   width: 50px;
 }
